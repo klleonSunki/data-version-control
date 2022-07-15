@@ -1,0 +1,7 @@
+[cache]
+    dir = /home/bens/git/dvc-shared
+    type = symlink
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = /home/bens/git/dvc-remote
